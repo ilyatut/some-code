@@ -109,5 +109,5 @@ catch (Exception $e) {
     Results:
     ---------------------------------------------------------------------------------
     Most frequent IP: 100.0.0.3
-    Most frequent URLs: array ( 'URL5 ' => 7812, 'URL2 ' => 5208, 'URL6 ' => 2604, )
+    Most frequent URLs: array ( 'URL5 ' => 720, 'URL2 ' => 480, 'URL6 ' => 240, )
 */
